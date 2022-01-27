@@ -2,6 +2,7 @@
 <xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
 <xs:element name="filmoteca"/>
 <xs:element name="peli" type="pelicula"/>
+<xs:element name="autor" type="xs:string"></xs:element>
 <xs:complexType name="pelicula">
     <xs:sequence>
         <xs:element name="titol" type="xs:string"/>
