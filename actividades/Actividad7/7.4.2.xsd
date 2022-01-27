@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
-<xsd:element name="filmoteca"/>
-<xsd:element name="peli" type="pelicula"/>
-<xsd:complexType name="pelicula">
-    <xsd:sequence>
-        <xsd:element name="titol" type="xsd:string"/>
-        <xsd:element name="director" type="xsd:string"/>
-    </xsd:sequence>
-</xsd:complexType>
-</xsd:schema>
+<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+<xs:element name="filmoteca"/>
+<xs:element name="peli" type="pelicula"/>
+<xs:complexType name="pelicula">
+    <xs:sequence>
+        <xs:element name="titol" type="xs:string"/>
+        <xs:element name="director" type="xs:string"/>
+    </xs:sequence>
+</xs:complexType>
+</xs:schema>

@@ -1,24 +1,24 @@
 <?xml version = "1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
- <xsd:element name="persona" type="tipusPersona"/>
- <xsd:element name="nom" type="xsd:string"/>
- <xsd:element name="comentari" type="xsd:string"/>
- <xsd:attribute name="naixement" type="xsd:date"/>
+<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+ <xs:element name="persona" type="tipusPersona"/>
+ <xs:element name="nom" type="xs:string"/>
+ <xs:element name="comentari" type="xs:string"/>
+ <xs:attribute name="naixement" type="xs:date"/>
 
- <xsd:complexType name="tipusPersona">
-   <xsd:sequence>
-     <xsd:element name="dades" type="info"/>
-     <xsd:element ref="comentari" minOccurs="0"/>
-   </xsd:sequence>
-   <xsd:attribute ref="naixement"/>
- </xsd:complexType>
+ <xs:complexType name="tipusPersona">
+   <xs:sequence>
+     <xs:element name="dades" type="info"/>
+     <xs:element ref="comentari" minOccurs="0"/>
+   </xs:sequence>
+   <xs:attribute ref="naixement"/>
+ </xs:complexType>
 
- <xsd:complexType name="info">
-   <xsd:sequence>
-     <xsd:element ref="nom"/>
-     <xsd:element name="cognoms" type="xsd:string"/>
-     <xsd:element name="dni" type="xsd:string"/>
-   </xsd:sequence>
-   <xsd:attribute name="telef" type="xsd:integer"/>
- </xsd:complexType>
-</xsd:schema>
+ <xs:complexType name="info">
+   <xs:sequence>
+     <xs:element ref="nom"/>
+     <xs:element name="cognoms" type="xs:string"/>
+     <xs:element name="dni" type="xs:string"/>
+   </xs:sequence>
+   <xs:attribute name="telef" type="xs:integer"/>
+ </xs:complexType>
+</xs:schema>
