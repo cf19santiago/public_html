@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.1.4.xsd">
+  <animal>
+	<dog>Caniche</dog>	
+  </animal>
+  <animal>
+	<cat>Persa</cat>		
+  </animal>
+</animals>

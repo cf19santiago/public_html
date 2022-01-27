@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<World>
+    <Continent id="01">
+        <Nom>America</Nom>
+        <Countries>
+            <Country id="101">
+                <Name>Belize</Name>
+                <Cities>
+                    <City id="1001">
+                        <Name>Hopkins</Name>
+                    </City>
+                    <City id="1002">
+                        <Name>Belmopan</Name>
+                    </City>
+                </Cities>
+            </Country>
+            <Country id="102">
+                <Name>Peru</Name>
+                <Cities>
+                    <City id="103">
+                        <Name>Lima</Name>
+                    </City>
+                    <City id="1004">
+                        <Name>Ica</Name>
+                    </City>
+                </Cities>
+            </Country>
+            <Country id="103">
+                <Name>Uruguay</Name>
+            </Country>
+        </Countries>
+    </Continent>
+    <Continent id="02">
+        <Nom>Asia</Nom>
+        <Countries>
+            <Country id="104">
+                <Name>Vietnam</Name>
+                <Cities>
+                    <City id="1005">
+                        <Name>Pleiku</Name>
+                    </City>
+                </Cities>
+            </Country>
+            <Country id="105">
+                <Name>Japan</Name>
+                <Cities>
+                    <City id="1006">
+                        <Name>Kobe</Name>
+                    </City>
+                </Cities>
+            </Country>
+            <Country id="106">
+                <Id>106</Id>
+                <Name>India</Name>
+            </Country>
+        </Countries>
+    </Continent>
+</World>

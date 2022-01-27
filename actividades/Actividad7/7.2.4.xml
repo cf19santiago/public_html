@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.2.4.xsd">      
+ <programa nom="Visual studio code" llicencia="GPL LGPL"></programa>
+ <programa nom="Inkscape V2.0" llicencia="GPL">Vectorial editor</programa>
+ <programa nom="Apache2" llicencia="GPL">Webpage server</programa>
+</programes>

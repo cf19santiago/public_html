@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>		
+<esportistes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.4.1.xsd">
+  <esportista>
+    <nom>Jesse Owens</nom>
+    <esport>Atletisme</esport>
+  </esportista>
+  <esportista>
+    <nom>Mark Spitz</nom>		
+    <esport>Natació</esport>
+  </esportista>
+</esportistes>

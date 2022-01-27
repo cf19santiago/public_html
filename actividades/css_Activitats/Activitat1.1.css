@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+strong{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+image{
+    
+    width: 250px;
+    height: 250px;
+}

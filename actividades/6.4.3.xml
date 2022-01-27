@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE newspaper[
+    <!ELEMENT newspaper (article+)>
+    <!ELEMENT article (headline,byline,lead,body,notes)>
+    <!ELEMENT headline (#PCDATA)>
+    <!ELEMENT byline (#PCDATA)>
+    <!ELEMENT lead (#PCDATA)>
+    <!ELEMENT body (#PCDATA)>
+    <!ELEMENT notes (#PCDATA)>
+    <!ATTLIST article author CDATA #REQUIRED>
+    <!ATTLIST article editor CDATA #IMPLIED>
+    <!ATTLIST article date CDATA #IMPLIED>
+    <!ATTLIST article edition CDATA #IMPLIED>
+    <!ENTITY newspaper "Vervet Logic Times">
+    <!ENTITY publisher "Vervet Logic Press">
+    <!ENTITY copyright "Copyright 1998 Vervet Logic Press">
+]>
+<newspaper>
+    <article author="Vector" editor="Gru" date="10/12/2021">
+        <headline>Why is the moon so far?</headline>
+        <byline>Vector</byline>
+        <lead>lead</lead>
+        <body>Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.</body>
+        <notes>In retrospective the moon isn't that far</notes>
+    </article>
+</newspaper>

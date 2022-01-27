@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fitxes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.3.2.xsd">
+    <fitxa numero="1" lletra="A">
+        <codi>12345</codi>
+    </fitxa>
+    <fitxa numero="2" lletra="B">
+        <nom>CV Santiago</nom>
+    </fitxa>
+</fitxes>

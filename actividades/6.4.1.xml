@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE List[
+    <!ELEMENT List (Item+, Separator )>
+    <!ELEMENT Item (#PCDATA)>
+    <!ATTLIST Item id CDATA #IMPLIED>
+    <!ATTLIST Item color CDATA #IMPLIED>
+    <!ELEMENT Separator EMPTY>
+]>
+<List>
+    <Item id="1" color="Verde">Pintura verde</Item>
+    <Separator></Separator>
+</List>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <full_name>Santiago Pastor Serrano</full_name>
+        <email>cf19santiago.pastor@iesjoandaustria.org</email>
+        <gender>Masculino</gender>
+        <date_of_birth>15/5/2003</date_of_birth>
+        <country_code>123456</country_code>
+        <created_at>2/12/2021</created_at>
+    </user>
+    <user>
+        <id>2</id>
+        <full_name>Oscar Gonzàlez</full_name>
+        <email>cf19oscar.gonzalez@iesjoandaustria.org</email>
+        <gender>Masculino</gender>
+        <date_of_birth>4/9/2002</date_of_birth>
+        <country_code>123456</country_code>
+        <created_at>2/12/2021</created_at>
+    </user>
+    <user>
+        <id>3</id>
+        <full_name>Javier Palma</full_name>
+        <email>cf19javier.palma@iesjoandaustria.org</email>
+        <gender>Masculino</gender>
+        <date_of_birth>10/11/2021</date_of_birth>
+        <country_code>123456</country_code>
+        <created_at>2/12/2021</created_at>
+    </user>
+</users>

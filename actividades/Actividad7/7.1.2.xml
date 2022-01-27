@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<papers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="7.1.2.xsd">
+	<doc>file1</doc>	
+	<doc>file1 file2</doc>	
+</papers>

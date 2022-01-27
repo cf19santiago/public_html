@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
+<xsd:element name="esportistes"/>
+<xsd:element name="esportista" type="dades"/>
+<xsd:complexType name="dades">
+  <xsd:sequence>
+      <xsd:element name="nom" type="xsd:string"/>
+      <xsd:element name="esport" type="xsd:string"/>
+  </xsd:sequence>
+</xsd:complexType>
+</xsd:schema>

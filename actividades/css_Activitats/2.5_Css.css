@@ -1,0 +1,57 @@
+#titol{
+    color: cornflowerblue;
+
+}
+strong{
+    color: firebrick;
+}
+.destacat{
+    color: yellow;
+}
+#subtitol{
+    color: darkblue;
+}
+a{
+    color: red;
+}
+em{
+    color: blue;
+}
+span.especial{
+    color: purple;
+}
+caption{
+    color: blue;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: darkgreen;
+  }
+tr>th.especial{
+    color: gold;
+}
+tfoot{
+    color: red;
+}
+tr>th[scope="row"].especial{
+    color: gold;
+}
+tr>th{
+    color: red;
+}
+td>em{
+    color: seagreen;
+}
+td>strong{
+    color: gold;
+}
+#adicional{
+    color: yellowgreen;
+}
+span#especial{
+    color: palevioletred;
+}
+a[href="##"]{
+    color: darkolivegreen;
+}

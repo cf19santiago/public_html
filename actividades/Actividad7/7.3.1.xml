@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.3.1.xsd" naixement="2022-01-01">
+    <dades>
+        <nom>Amogus</nom>
+        <cognoms>Sugus</cognoms>
+        <dni>12345678X</dni>
+    </dades>
+    <comentari>Altamente inestable</comentari>
+</persona>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
+<xsd:element name="programes"/>
+<xsd:element name="programa" type="programa"/>
+<xsd:complexType name="programa">
+    <xsd:sequence>
+        <xsd:element name="nom" type="xsd:string"/>
+    </xsd:sequence>
+    <xsd:attribute name="llicencia" type="xsd:string"/>
+</xsd:complexType>
+</xsd:schema>

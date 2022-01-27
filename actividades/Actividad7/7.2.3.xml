@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solarSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.2.3.xsd">
+   <body cod="1">
+       <satellite>Moon</satellite>
+   </body>
+   <body cod="2">
+       <asteroid>Ceres</asteroid>
+   </body>
+   <body cod="3">
+       <planet>Earth</planet>
+   </body>
+</solarSystem>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artists xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.2.1.xsd">
+   <performer>
+       <nick>The redheaded priest</nick>
+       <name>Antonio Vivaldi</name>
+       <born>21-03-2022</born>
+   </performer>
+   <performer>
+       <nick>El sugus sabor naranja</nick>
+       <born>21-03-1685</born>
+       <name>Johann Sebastian Bach</name>
+   </performer>
+</artists>

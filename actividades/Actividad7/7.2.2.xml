@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./7.2.2.xsd">
+  <contact>       
+    <name>INS Joan d'Àustria</name>
+  </contact>       
+  <contact>       
+    <landLine>112 (EU)</landLine>
+ </contact>       
+</agenda>

@@ -1,0 +1,23 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="lleis"/>
+    <xsd:element name="titol" type="xsd:string"/>
+    <xsd:element name="murphy" type="Filosofo"/>
+    <xsd:element name="gingsberg" type="Filosofo"/>
+    <xsd:element name="confuci" type="Filosofo"/>
+    <xsd:element name="altres" type="Filosofo"/>
+    <xsd:complexType name="Filosofo">
+    <xsd:sequence>
+        <xsd:element name="tipus" type="xsd:string" maxOccurs="1"/>
+        <xsd:element name="llei" maxOccurs="unbounded" type="lleis"/>
+    </xsd:sequence>
+    <xsd:attribute name="id"/>
+    </xsd:complexType>
+    <xsd:complexType name="lleis">
+        <xsd:simpleContent>
+            <xsd:extension base="xsd:string">
+                <xsd:attribute name="id" type="xsd:string">
+                </xsd:attribute>
+            </xsd:extension>   
+        </xsd:simpleContent>
+    </xsd:complexType>
+</xsd:schema>

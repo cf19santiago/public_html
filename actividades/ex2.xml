@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer price="5.00">
+    <hardware>
+        <keyboard>
+            <name>TEXT</name>
+        </keyboard>
+        <screen resolution="1080p">
+            <name>TEXT</name>
+        </screen>
+        <motherboard>
+            <name>TEXT</name>
+            <chipset-model>
+                <name>TEXT</name>
+            </chipset-model>
+            <Ram-slots number="4">
+                <name>TEXT</name>
+            </Ram-slots>
+            <integrated-components>
+                <video-card size="30cm">
+                    <name>TEXT</name>
+                </video-card>
+                <wifi-card>
+                    <name>TEXT</name>
+                </wifi-card>
+                <Sound-card>
+                    <name>TEXT</name>
+                </Sound-card>
+            </integrated-components>
+        </motherboard>
+    </hardware>
+    <software>
+        <Operative-System installed="Yes" free="Yes">
+            <name>TEXT</name>
+            <Security-pack>
+                <name>TEXT</name>
+            </Security-pack>
+        </Operative-System>
+        <Office-pack installed="Yes">
+            <name>TEXT</name>
+        </Office-pack>
+        <Browser>
+            <name>TEXT</name>
+        </Browser>
+    </software>
+</computer>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="Catalan">
+  <head>
+    <title>Web_M4_Santiago_Pastor_ASIX1</title>
+    <meta http-equiv="Content-Type" content="text/html; ISO-8859-1">
+    <meta name="DC.Language" scheme="RFC1766" content="Catalan">
+    <meta name="AUTHOR" content="Santiago Pastor Serrano">
+    <meta name="REPLY-TO" content="cf19santiago.pastor@iesjoandaustria.org">
+    <link rev="made" href="mailto:cf19santiago.pastor@iesjoandaustria.org">
+    <meta name="DESCRIPTION" content="Aquesta web és on tots els meus treballs de M4 estaràn pujats a la web.">
+    <meta name="KEYWORDS" content="html projecte ASIX1">
+    <meta name="Resource-type" content="Homepage">
+    <meta name="DateCreated" content="Fri, 1 October 2021 00:00:00 GMT+1">
+    <meta name="robots" content="ALL">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet">
+    <link href="fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="css/templatemo-comparto.css" rel="stylesheet">
+  </head>
+  <!-- META-TAGS generadas por https://metatags.miarroba.com -->
+  <!--
+Comparto TemplateMohttps://templatemo.com/tm-544-comparto--> <body>
+    <!-- Back to top button -->
+    <div class="container-fluid">
+      <div class="tm-site-header tm-mb-1">
+        <div class="tm-site-name-container tm-bg-color-1">
+          <h1 class="tm-text-white">WEB de treball de santiago</h1>
+        </div>
+        <div class="tm-nav-container tm-bg-color-8">
+          <nav class="tm-nav" id="tm-nav">
+            <ul>
+              <li class="tm-nav-item current"> <a href="#Activitat0.1" class="tm-nav-link">
+                  <span>Activitat 0.1</span></a> </li>
+              <li class="tm-nav-item current"> <a href="#Activitat1" class="tm-nav-link">
+                  <span>Activitat 1</span></a> </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <section class="tm-mb-1" id="Activitat0.1">
+        <div class="tm-row tm-about-row">
+          <div class="tm-section-1-l"> <img src="actividades/img/CapturaACT1.JPG"
+              alt="About image" class="tm-img-responsive"> </div>
+          <article class="tm-section-1-r tm-bg-color-8">
+            <h2 class="tm-mb-2 tm-title-color">Activitat 0.1</h2>
+            <p><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">En
+                aquesta activitat vaig fer una web molt simple que tenia com a
+                objectiu ser un Curriculum vitae d'un personatge.</span></p>
+            <a href="actividades/activitat1_etiquetes.html" class="tm-btn tm-btn-1 tm-link-to-services"
+              target="_blank">Veure el Treball</a> </article>
+        </div>
+      </section>
+      <section class="tm-mb-1" id="Activitat1">
+        <div class="tm-row tm-about-row">
+          <div class="tm-section-1-l"> <img src="actividades/img/CapturaActivitat1.JPG"
+              alt="About image" class="tm-img-responsive"> </div>
+          <article class="tm-section-1-r tm-bg-color-8">
+            <h2 class="tm-mb-2 tm-title-color">Activitat 1</h2>
+            <p><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">En
+                aquesta activitat vaig crear 3 pàgines web: <br>
+                La primera és un text biografic de Tim Berners-Lee que habíem
+                d'adaptar segons específicaba el enunciat. <br>
+                La segona és un conjunt de 3 taules amb diferents
+                especificacions (segons demanaba l'enunciat) i un formulari. <br>
+                La tercera és una taula que habiem de crear utilitzant els
+                coneixements obtinguts mentres feiem les taules de la pàgina
+                anterior.</span></p>
+            <a href="actividades/IndiceAct1.html" class="tm-btn tm-btn-1 tm-link-to-services"
+              target="_blank">Veure el Treball</a> </article>
+        </div>
+      </section>
+      <section class="tm-mb-1" id="Activitat1">
+        <div class="tm-row tm-about-row">
+          <div class="tm-section-1-l"> <img src="actividades/img/CapturaActivitat1.JPG"
+              alt="About image" class="tm-img-responsive"> </div>
+          <article class="tm-section-1-r tm-bg-color-8">
+            <h2 class="tm-mb-2 tm-title-color">Activitat 1</h2>
+            <p><span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">En
+                aquesta activitat vaig crear 3 pàgines web: <br>
+                La primera és  <br>
+                La segona és  <br>
+                La tercera és </span></p>
+            <a href="actividades/IndiceAct1.html" class="tm-btn tm-btn-1 tm-link-to-services"
+              target="_blank">Veure el Treball</a> </article>
+        </div>
+      </section>
+      <div class="tm-mb-4 text-center tm-social-s"> </div>
+      <footer class="text-center tm-mb-1">
+        <p><span style="font-family: monospace;">Made By Santiago Pastor</span><a
+            rel="nofollow noopener" href="https://templatemo.com" target="_blank"></a></p>
+      </footer>
+    </div>
+    <!-- .container -->
+    <script src="js/jquery.min.js"></script>
+    <!-- https://jquery.com/download/ -->
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <!-- https://imagesloaded.desandro.com/ -->
+    <script src="js/isotope.pkgd.min.js"></script>
+    <!-- https://isotope.metafizzy.co/ -->
+    <script src="js/jquery.singlePageNav.min.js"></script>
+    <!-- https://github.com/ChrisWojcik/single-page-nav -->
+    <script>
+
+        // Scroll to Top button
+        var btn = $('#button');
+
+        $(window).scroll(function () {
+            if ($(window).scrollTop() > 300) {
+                btn.addClass('show');
+            } else {
+                btn.removeClass('show');
+            }
+        });
+
+        btn.on('click', function (e) {
+            e.preventDefault();
+            $('html, body').animate({ scrollTop: 0 }, '300');
+        });
+
+        // DOM is ready
+        $(function () {
+            // Single Page Nav
+            $('#tm-nav').singlePageNav({ speed: 600 });
+
+            // Smooth Scroll (https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+            $('a[href*="#"]')
+                // Remove links that don't actually link to anything
+                .not('[href="#"]')
+                .not('[href="#0"]')
+                .click(function (event) {
+                    // On-page links
+                    if (
+                        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+                        &&
+                        location.hostname == this.hostname
+                    ) {
+                        // Figure out element to scroll to
+                        var target = $(this.hash);
+                        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                        // Does a scroll target exist?
+                        if (target.length) {
+                            // Only prevent default if animation is actually gonna happen
+                            event.preventDefault();
+                            $('html, body').animate({
+                                scrollTop: target.offset().top
+                            }, 600, function () {
+                                // Callback after animation
+                                // Must change focus!
+                                var $target = $(target);
+                                $target.focus();
+                                if ($target.is(":focus")) { // Checking if the target was focused
+                                    return false;
+                                } else {
+                                    $target.attr('tabindex', '-1'); // Adding tabindex for elements not focusable
+                                    $target.focus(); // Set focus again
+                                };
+                            });
+                        }
+                    }
+                });
+
+            /* Isotope Gallery */
+
+            // init isotope
+            var $gallery = $(".tm-gallery").isotope({
+                itemSelector: ".tm-gallery-item",
+                layoutMode: "fitRows"
+            });
+            // layout Isotope after each image loads
+            $gallery.imagesLoaded().progress(function () {
+                $gallery.isotope("layout");
+            });
+
+            $(".filters-button-group").on("click", "a", function () {
+                var filterValue = $(this).attr("data-filter");
+                $gallery.isotope({ filter: filterValue });
+            });
+
+            $(".tabgroup > div").hide();
+            $(".tabgroup > div:first-of-type").show();
+            $(".tabs a").click(function (e) {
+                e.preventDefault();
+                var $this = $(this),
+                    tabgroup = "#" + $this.parents(".tabs").data("tabgroup"),
+                    others = $this
+                        .closest("li")
+                        .siblings()
+                        .children("a"),
+                    target = $this.attr("href");
+                others.removeClass("active");
+                $this.addClass("active");
+            });
+        });
+    </script>
+    
+  </body>
+</html>

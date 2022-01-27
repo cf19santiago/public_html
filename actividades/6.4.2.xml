@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tvSchedule[
+    <!ELEMENT tvSchedule (channel+)>
+    <!ELEMENT channel (banner,day+)>
+    <!ELEMENT banner (#PCDATA)>
+    <!ELEMENT day (date,(holiday|programSlot+)+)>
+    <!ELEMENT holiday (#PCDATA)>
+    <!ELEMENT date (#PCDATA)>
+    <!ELEMENT programSlot (time,title,description?)>
+    <!ELEMENT time (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+]>
+<tvSchedule>
+    <channel>
+        <banner>CNN</banner>
+        <day>
+            <date>15/5/2021</date>
+            <holiday>Yes</holiday>
+        </day>
+        <day>
+            <date>15/5/2021</date>
+            <programSlot>
+                <time>2 hours</time>
+                <title>Is it purple?</title>
+                <description>Finding the purple in life</description>
+            </programSlot>
+        </day>
+    </channel>
+    <channel>
+        <banner>BBC</banner>
+        <day>
+            <date>15/5/2021</date>
+            <programSlot>
+                <time>2 hours</time>
+                <title>Is it purple?</title>
+                <description>Finding the purple in life</description>
+            </programSlot>
+        </day>
+    </channel>
+</tvSchedule>

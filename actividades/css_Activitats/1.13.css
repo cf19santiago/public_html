@@ -1,0 +1,21 @@
+table{
+    border: black 2px solid;
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+}
+td{
+    border: black 2px solid;
+}
+#row1{
+    background-color: pink
+}
+#row2{
+    background-color: yellow ;
+}
+#row3{
+    background-color: green;
+}
+#row4, #row5, #row6{
+    background-color: orange;
+}

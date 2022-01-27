@@ -1,0 +1,56 @@
+
+#logo{
+    background-color: grey;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif,;
+    color: white;
+    padding: 20px;
+}
+#menu{
+    background-color: pink;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif,;
+    color: white;
+    margin-top: 15px ;
+    margin-bottom: 15px;
+    padding: 20px;
+}
+#lateral{
+    background-color: darkgreen;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif,;
+    color: white;
+    width: 40%;
+    
+}
+#secundari{
+    background-color: green;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif,;
+    color: white;
+    width: 58%;
+    margin-left: 2%;
+}
+
+article{
+    background-color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif,;
+    color: white;
+    font-size: xx-small;
+    margin-bottom: 5%;
+    padding: 10px;
+}
+#peu{
+    background-color: orangered;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif,;
+    color: white;
+    padding: 20px;
+    margin-top: 2%;
+}
+.contingut{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
