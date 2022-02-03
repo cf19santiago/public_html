@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="8.6.xsd">
+        <alumne dni="12345678">
+            <nom>Santiago</nom>
+            <adress>
+                <carrer>87</carrer>
+                <nom>Concilio de trento</nom>
+                <ciutat>Barcelona</ciutat>
+                <província>Barcelona</província>
+            </adress>
+            <tel>634880157</tel>
+        </alumne>
+</alumnes>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="8.5.xsd">
+    <computer laptop="false">
+        <brand>HP</brand>
+        <model>All_in_one_x19</model>
+        <RamGB>8</RamGB>
+        <diskGB>500</diskGB>
+    </computer>
+    <computer laptop="true">
+        <brand>HP</brand>
+        <model>HP 255 G8 Notebook PC</model>
+        <RamGB>16</RamGB>
+        <diskGB>500</diskGB>   
+    </computer>
+</student>

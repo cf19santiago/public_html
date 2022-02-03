@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="mypets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="pet" type="pet" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="pet">
+        <xs:choice>
+            <xs:element name="dog" type="Animal" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="cat" type="Animal" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="bear" type="Animal" minOccurs="0" maxOccurs="1"/>
+        </xs:choice>
+    </xs:complexType>
+    <xs:complexType name="Animal">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="born" type="xs:date"/>
+            <xs:element name="breed" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attribute name="lang" type="xs:string"/>
+    </xs:complexType>
+</xs:schema>
