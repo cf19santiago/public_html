@@ -12,4 +12,5 @@
         <RamGB>16</RamGB>
         <diskGB>500</diskGB>   
     </computer>
+    <!--No se puede poner un tercero ya que en el xsd especifíca un máximo de 2-->
 </student>
