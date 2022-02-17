@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Web_M4_Santiago_Pastor_ASIX1</title>
+        <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/</link>
+        <description>Contenido que vas a ofrecer a los usuarios</description>
+
+        <item>
+            <title>Activitat 0.1</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/activitat1_etiquetes.html</link>
+            <description>En aquesta activitat vaig fer una web molt simple que tenia com a objectiu ser un Curriculum vitae d'un personatge.</description>
+        </item>
+        <item>
+            <title>Activitat 1</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/IndiceAct1.html</link>
+            <description>En aquesta activitat vaig crear 3 pàgines web:
+                La primera és un text biografic de Tim Berners-Lee que habíem d'adaptar segons específicaba el enunciat.
+                La segona és un conjunt de 3 taules amb diferents especificacions (segons demanaba l'enunciat) i un formulari.
+                La tercera és una taula que habiem de crear utilitzant els coneixements obtinguts mentres feiem les taules de la pàgina anterior.</description>
+        </item>
+        <item>
+            <title>Activitat 2</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/IndiceAct2.html</link>
+            <description>En aquesta activitat vaig crear 3 pàgines web:
+                La primera és un text en el cual vaig haber de modificar tant els colors de diverses etiquetes com els de el fons mateix.
+                La segona és una pàgina web amb diferents seccions que vaig haber d'adaptar a una mostra proporcionada per l'exercisi. En aquesta activitat també vaig apendre a configurar una flexbox
+                La tercera és un text amb una taula adins que també vaig haber d'adaptar a una mostra a dintre del enunciat pero aquest exercisi va ser molt més dificíl que els anteriors per la complexitat de les etiquetes</description>
+        </item>
+        <item>
+            <title>Activitat 3</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/IndiceAct3.html</link>
+            <description>En aquesta activitat vaig crear 3 Arxius:
+                El primer és un esquema que vaig crear a partir d'un arxhiu .xml.
+                El segon és un archiu xml que vaig crear a partir d'un esquema.
+                El tercer és un archiu html que utilitzo per respondre algunes preguntes.</description>
+        </item>
+        <item>
+            <title>Activitat 4</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/IndiceAct4.html</link>
+            <description>En aquest treball vaig:
+                1. Corretgir una série d'arxius .xtml
+                2. Fer un archiu .xml a partir d'un esquema porporcionat per l'enunciat de l'activitat
+                3. Explicar en un archiu .html una série de llenguatges, donant una petita definició per cadscuna d'elles
+                4. Buscar i explicar 3 usos comuns del llenguatje XML</description>
+        </item>
+        <item>
+            <title>Activitat 5</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/IndiceAct5.html</link>
+            <description>En aquest treball vaig transformar una seríe d'esquemes donats en l'enunciat de l'exercisi en archius .xml per pràcticar tots els conceptes apresos sobre aquest llenguatge.</description>
+        </item>
+        <item>
+            <title>Activitat 6</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/Activitat6.txt</link>
+            <description>En aquest treball vaig practicar les regles DTD de XML solucionant errades en els codis i escrivint Tant DTDs com XMLs nous. Els resultats els vaig apuntar en l'archiu .txt següent.</description>
+        </item>
+        <item>
+            <title>Activitat 7</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/Indice_Act7.html</link>
+            <description>En aquest treball vam apendre a crear archius xsd correctes i a enllaçarlos amb archius .xml.</description>
+        </item>
+        <item>
+            <title>Activitat 8</title>
+            <link>https://m4-asix1-santiago-pastor-serrano.000webhostapp.com/actividades/IndiceAct8.html</link>
+            <description>En aquest treball vam consolidar i practicar els nostres coneixements sobre els archius xsd enllaçats amb archius .xml.</description>
+        </item>
+    </channel>
+</rss>
