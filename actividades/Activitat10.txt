@@ -24,14 +24,66 @@
 
 #Activitat7
 
-
+/collection/song[position()<6]
 
 #Activitat8
 
-
+/collection/count(song)
 
 #Activitat9
 
-
+/collection/count(song[@single="yes"])
 
 #Activitat10
+
+/collection/count(song[@tp="yes"])
+
+#Activitat11
+
+/collection/count(song[@tp="yes"][@single="yes"])
+
+#Activitat12
+
+count(//song[not(@single)])
+
+#Activitat13
+
+count(//song[not(@single)][@tp="no"])
+
+#Activitat14
+
+count(//song[not(@single) or @tp="no"])
+
+#Activitat15
+
+//song[1]/@*
+
+#Activitat16
+
+//song[1]/@year
+
+#Activitat17
+
+//song[1]/title/text()
+
+#Activitat18
+
+//song[1]/concat(title,'(',artist,')')
+
+#Activitat19
+
+count(//song/date[day = 20])
+
+#Activitat20
+
+
+#Activitat21
+
+
+#Activitat22
+
+
+#Activitat23
+
+
+#Activitat24
