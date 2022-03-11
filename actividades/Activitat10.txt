@@ -76,12 +76,15 @@ count(//song/date[day = 20])
 
 #Activitat20
 
+//song[artist/text()="Metallica"]
 
 #Activitat21
 
+//song[artist/text()="Metallica"]/date
 
 #Activitat22
 
+//song[@year=date/year]
 
 #Activitat23
 
