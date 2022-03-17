@@ -88,5 +88,25 @@ count(//song/date[day = 20])
 
 #Activitat23
 
+//song[extres/text()="Harmonies"]/title/text()
 
 #Activitat24
+
+count(//song[stock/text()<10])
+
+#Activitat25
+
+count(//song[stock/text()=0])
+
+#Activitat26
+
+sum(//song[artist/text()="The Cars"]/stock/text())
+
+#Activitat27
+
+sum(//song[artist/text()="The Cars"][title/text()!="Bye Bye Love"]/stock/text())
+
+#Activitat28
+
+//song[@tp="yes" and @single="yes" and extres/text()="Core" and (stock<50 or stock>225)and genre/text()="Rock" and contains(artist,"Day")]/title/text()
+
