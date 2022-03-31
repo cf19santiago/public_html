@@ -1,0 +1,10 @@
+Activitat1
+//a[@href]
+Activitat2
+//div[@id='text-3']/div/ul/li[a]/a| //div[@id='text-2']/div/ul/li[a]/a
+Activitat3
+//div[span="Latest Topics"]//a
+Activitat4
+//body/div/div/div/div/span/span/i[contains(@class,"angle-down")]
+Activitat5
+
